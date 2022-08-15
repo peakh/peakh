@@ -2,7 +2,7 @@
 
 I develop stuff. Mostly Discord bots.
 
-This readMe is a draft and may be continued to worked on soon.
+This README is a draft and may be continued to be worked on soon.
 
 I work with JavaScript, and I am currently learning bits of TypeScript.
 
